@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Voico</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recording_started">Recording...</string>
+    <string name="recording_stopped">Recording stopped</string>
+    <string name="rationale_audio">"Audio request didn't given. "</string>
+</resources>
